@@ -1,0 +1,4 @@
+1 Pizza 28.0 1
+2 Burger 17.5 2
+3 Coke 5.0 6
+1 Pizza 28.00 4
